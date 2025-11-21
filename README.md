@@ -1,5 +1,5 @@
 # Código y Materiales de la Tesis: *Distribuciones Tipo Fase para un Modelo de Coalesencia con Tres Alelos*
-Por Elías González Nieto 
+Elías González Nieto 
 \\
 Tutora María Clara Fittipaldi
 \\
