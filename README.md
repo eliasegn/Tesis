@@ -4,4 +4,5 @@ Elías González Nieto
 Tutora María Clara Fittipaldi
 
 Facultad de Ciencias, CDMX, 2026
-<img width="1742" height="1404" alt="image" src="https://github.com/user-attachments/assets/c4806fff-7794-43e5-b65c-0841f86efe17" />
+<img width="1600" height="1153" alt="image" src="https://github.com/user-attachments/assets/bfa90422-9023-4d6b-a7c1-9a20f751ace6" />
+
