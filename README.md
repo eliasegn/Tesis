@@ -6,12 +6,9 @@
 
 ---
 
-### 👤 Autor  
 **Elías González Nieto**  
-📍 Ciudad de México, 2026  
-
-### 🎓 Dirección de Tesis  
-**Dra. María Clara Fittipaldi**
+📍 Ciudad de México, 2026 
+** Asesorado por Dra. María Clara Fittipaldi**
 
 ---
 
