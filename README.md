@@ -15,7 +15,7 @@
 
 ---
 
-En este repositorio se encuentra el código utilizado para la realización de mi tesis de licenciatura *Distribuciones Tipo Fase para un Modelo de Coalesencia con Tres Alelos*. En esta tesis se presenta un marco teórico sobre diversos modelos de coalescencia y de distribuciones tipo fase, para después aplicarlo a un caso particular: el modelo de Wright-Fisher con tres alelos.
+En este repositorio se encuentra el código utilizado para la realización de la tesis de licenciatura *Distribuciones Tipo Fase para un Modelo de Coalesencia con Tres Alelos*. En esta tesis se presenta un marco teórico sobre diversos modelos de coalescencia y de distribuciones tipo fase, para después aplicarlo a un caso particular: el modelo de Wright-Fisher con tres alelos.
 
 En el primer capítulo de generaron imágenes basadas en las paqueterías [igraph](https://r.igraph.org/) y [ape](https://cran.r-project.org/web/packages/ape/index.html), para generar ejemplos de trayectorias de los modelos de Wright-Fisher y de Morán y finalmente para generar árboles coalescentes.
 
