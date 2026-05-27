@@ -12,6 +12,7 @@
 
 ### 🎓 Dirección de Tesis  
 **Dra. María Clara Fittipaldi**
+
 ---
 
 En este repositorio se encuentra el código utilizado para la realización de mi tesis de licenciatura *Distribuciones Tipo Fase para un Modelo de Coalesencia con Tres Alelos*. En esta tesis se presenta un marco teórico sobre diversos modelos de coalescencia y de distribuciones tipo fase, para después aplicarlo a un caso particular: el modelo de Wright-Fisher con tres alelos.
