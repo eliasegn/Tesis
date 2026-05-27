@@ -9,7 +9,7 @@
 **Elías González Nieto**  
 📍 Ciudad de México, 2026 
 
-**Asesorado por Dra. María Clara Fittipaldi**
+**Asesorado por la Dra. María Clara Fittipaldi**
 
 ---
 
