@@ -1,6 +1,6 @@
 # Código y Materiales de la Tesis: *Distribuciones Tipo Fase para un Modelo de Coalesencia con Tres Alelos*
 Elías González Nieto, CDMX 2026. Tutora Dra. María Clara Fittipaldi.
-<img width="1600" alt="image" src="https://github.com/user-attachments/assets/bfa90422-9023-4d6b-a7c1-9a20f751ace6" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/bfa90422-9023-4d6b-a7c1-9a20f751ace6" />
 
 En este repositorio se encuentra el código utilizado para la realización de mi tesis de licenciatura *Distribuciones Tipo Fase para un Modelo de Coalesencia con Tres Alelos*. En esta tesis se presenta un marco teórico sobre diversos modelos de coalescencia y de distribuciones tipo fase, para después aplicarlo a un caso particular: el modelo de Wright-Fisher con tres alelos.
 
