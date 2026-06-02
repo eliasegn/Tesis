@@ -23,6 +23,6 @@ Dentro de la carpeta códigos se encuentran los archivos utilizados para la tesi
 
 * plots.R es el código utilizado en el primer capítulo para generar las figuras.
 * general.R es el código utilizado en el último capítulo para generar las simulaciones.
-* wf.R es el código utilizado para generar simulaciones del modelo de competencia trialélica y generar figuras como la que se presenta en la sección 3.1
+* wf.R es el código utilizado para generar simulaciones del modelo de competencia trialélica y generar figuras como la que se presenta en la sección 3.1.
 
 La tesis se puede consultar [](), y se puede contactar a Elías por correo electrónico a [eliasgn@ciencias.unam.mx](mailto:eliasgn@ciencias.unam.mx).
