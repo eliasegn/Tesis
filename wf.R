@@ -100,6 +100,6 @@ graficar_trayectoria <- function(tray) {
 }
 
 # Ejemplo (Figura 3.1 en la tesis)
-set.seed(81)
-tesis <- WF_tres_alelos(5000, p0, 6000)
+set.seed(12)
+tesis <- WF_tres_alelos(50000, p0, 115000)
 graficar_trayectoria(tesis)
